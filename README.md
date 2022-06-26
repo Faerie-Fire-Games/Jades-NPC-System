@@ -1,6 +1,10 @@
 # Jades-NPC-System
 An NPC system for Unity.
 
+==============
+SETUP TUTORIAL: https://youtu.be/S5ooV92P4Dc
+==============
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
